@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說方等般泥洹經
+#+DATE: 2015-08-30 20:04:26.333414
+#+PROPERTY: JUAN 0
